@@ -1,3 +1,3 @@
-# walk-sprites
+# sd-sprites
 
-Walk sprites for Stable Diffusion.
+360 sprites for Stable Diffusion/ControlNet use.
